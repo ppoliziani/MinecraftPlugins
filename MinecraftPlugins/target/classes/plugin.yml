@@ -1,0 +1,16 @@
+name: Runner
+version: 1.0-SNAPSHOT
+main: d_apzi.plugins.runner.Main
+authors: [PhilipPoliziani]
+description: 1 assassin and 1 runner, the assassin has to kill the runner with one hit but the runner can freeze the assassin if they are looking directly at them.
+commands:
+  assassin:
+    description: allocates the assasin
+  runner:
+    description: allocates the runner
+  tax:
+    description: reduces players health to half
+    aliases: [damage]
+  normal:
+    description: defaults the settings
+    aliases: [default]

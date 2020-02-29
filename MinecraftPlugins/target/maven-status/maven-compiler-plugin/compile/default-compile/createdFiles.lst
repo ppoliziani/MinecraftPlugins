@@ -1,0 +1,9 @@
+d_apzi\plugins\runner\commands\Runner.class
+d_apzi\plugins\runner\events\OnDropItem.class
+d_apzi\plugins\runner\events\OnKillMob.class
+d_apzi\plugins\runner\commands\Tax.class
+d_apzi\plugins\runner\events\OnLook.class
+d_apzi\plugins\runner\Main.class
+d_apzi\plugins\runner\runnables\Looking.class
+d_apzi\plugins\runner\commands\Assassin.class
+d_apzi\plugins\runner\commands\Normal.class
