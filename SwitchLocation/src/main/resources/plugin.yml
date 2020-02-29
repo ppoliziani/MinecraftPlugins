@@ -1,0 +1,16 @@
+name: plugins
+version: ${project.version}
+main: d_apzi.plugins.Main
+authors: [d_apzi]
+description: Switch location with other player
+commands:
+  group:
+    description: teleports all players to the player who issued the command
+  switch:
+    description: begins the switching
+  rarn:
+    description: ...
+  gravity:
+    description: changes the gravity every so often
+  g2:
+    description: just toggles gravity

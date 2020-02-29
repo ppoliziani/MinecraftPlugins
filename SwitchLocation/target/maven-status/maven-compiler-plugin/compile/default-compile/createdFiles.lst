@@ -1,0 +1,10 @@
+d_apzi\plugins\commands\Gravity.class
+d_apzi\plugins\commands\Switch.class
+d_apzi\plugins\Main.class
+d_apzi\plugins\events\OnDeath.class
+d_apzi\plugins\tasks\SwitchTask.class
+d_apzi\plugins\tasks\GravityTask.class
+d_apzi\plugins\tasks\TimerTask.class
+d_apzi\plugins\commands\Group.class
+d_apzi\plugins\commands\Rarn.class
+d_apzi\plugins\commands\G2.class
